@@ -6,6 +6,10 @@ Spring Boot本身并不提供Spring的核心功能，而是作为Spring的脚手
 
 SpringBoot使用“习惯优于配置”的理念，通过提供众多起步依赖（Starter）降低项目依赖的复杂度。从而能够快速、容易地创建一个能独立运行、准生产级别、基于Spring框架的项目，使用Spring Boot可以不用或者只需要很少的Spring配置
 
+### 和Spring MVC的区别
+
+
+
 ### Spring Boot的核心注解
 
 1. **`@SpringBootApplication`**
